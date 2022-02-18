@@ -57,13 +57,24 @@ function myArray_3() {
         echo "<p> a pessoa é: {$value} e o id eh {$key} </p>";
     }
 
-    
 }
+
+
+function get_method_5() {
+    echo "<br>";
+    //URL= http://localhost/aula1/ex1.php?name=maria
+    print_r( $_GET );
+
+    $nome = $_GET["name"] ?? NULL;
+    echo "<br>";
+
+    echo $nome;
+}
+
 //salario_2();
 //testing_variables_1();
-
-myArray_3();
-
+//myArray_3();
+get_method_5();
 /*
 class Car {
 
