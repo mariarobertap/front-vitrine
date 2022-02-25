@@ -59,6 +59,7 @@ function myArray_3() {
 
 }
 
+
 function get_method_5() {
     echo "<br>";
     //URL= http://localhost/aula1/ex1.php?name=maria
