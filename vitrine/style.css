@@ -1,0 +1,101 @@
+body {
+    margin: 0;
+    font: 18px Tahoma, Verdana
+}
+
+header, footer {
+    width: 100%;
+    display: inline-block;
+    background: #000;
+}
+
+header nav {
+    float: right
+}
+
+header nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin: 35px 10px;
+}
+
+header nav ul li a {
+    color: #FFF;
+    text-decoration: none;
+}
+
+header nav ul li a:hover {
+    color: #F00;
+}
+
+.banner img {
+    width: 100%;
+}
+
+footer p {
+    color: #FFF;
+    text-align: center;
+}
+
+.container {
+    width: 1000px;
+    margin: 30px auto;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 33%);
+}
+
+.grid .coluna {
+    border: 1px solid #ccc;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
+
+.grid .coluna img {
+    width: 100%;
+}
+
+.grid .btn {
+    background: #F00;
+    color: #FFF;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+.grid h2 {
+    height: 50px;
+    font-size: 20px;
+}
+
+.valor {
+    color: #F00;
+}
+
+h1, .center {
+    text-align: center;
+}
+
+.grid-produtos {
+    display: grid;
+    grid-template-columns: 30% 70%;
+}
+
+.grid-produtos .coluna {
+    margin: 5px;
+}
+
+.grid-produtos .coluna:first-child {
+    background-color: #EBEEEF;
+    border: 1px solid #CCC;
+}
+
+.grid-produtos .coluna img {
+    width: 100%;
+}
