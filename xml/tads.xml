@@ -1,0 +1,429 @@
+<?xml version="1.0"?>
+<TADS>
+  
+      <Disciplina>
+        <Nome>Desenvolvimento Mobile</Nome>
+        
+        <Carga>40h</Carga>
+        
+        <Turma>TADS01</Turma>
+        
+        <Professor>Ricardo</Professor>
+        
+        <Ano>2022</Ano>
+        
+        <Alunos>
+            <Aluno>
+                <ID>1</ID>
+                <RA>61123</RA>
+                <Nome>Maria</Nome>
+                <DataNascimento>22/04/2001</DataNascimento>
+                <Email>maria@gmail.com</Email>
+                <Telefone>412938190283</Telefone>
+                <Endereco>
+                    <Rua>Avenida Faria Lima</Rua>
+                    <Numero>12321</Numero>
+                    <Bairro>Centro</Bairro>
+                    <CEP>4564</CEP>
+                    <Cidade>São Paulo</Cidade>
+                    <Estado>São Paulo</Estado>
+                    <Pais>Brasil</Pais>
+                </Endereco>
+            </Aluno>
+            
+            <Aluno>
+                <ID>2</ID>
+                <RA>61123</RA>
+                <Nome>Gabriel</Nome>
+                <DataNascimento>21/06/2001</DataNascimento>
+                <Email>gabriel@gmail.com</Email>
+                <Telefone>412938190283</Telefone>
+                <Endereco>
+                    <Rua>Avenida Brigadeiro</Rua>
+                    <Numero>6343</Numero>
+                    <Bairro>Centro</Bairro>
+                    <CEP>2346</CEP>
+                    <Cidade>São Paulo</Cidade>
+                    <Estado>São Paulo</Estado>
+                    <Pais>Brsil</Pais>
+                </Endereco>
+            </Aluno>
+            
+            <Aluno>
+                <ID>3</ID>
+                <RA>61123</RA>
+                <Nome>Thiago</Nome>
+                <DataNascimento>14/08/2001</DataNascimento>
+                <Email>thiago@gmail.com</Email>
+                <Telefone>412938190283</Telefone>
+                <Endereco>
+                    <Rua>Avenida Paulista</Rua>
+                    <Numero>431</Numero>
+                    <Bairro>Centro</Bairro>
+                    <CEP>3525</CEP>
+                    <Cidade>São Paulo</Cidade>
+                    <Estado>São Paulo</Estado>
+                    <Pais>Brasil</Pais>
+                </Endereco>
+            </Aluno>
+            
+        </Alunos>
+        
+     
+      </Disciplina>
+      
+      <Disciplina>
+        <Nome>Banco de Dados Avançado</Nome>
+        
+        <Carga>40h</Carga>
+        
+        <Turma>TADS00</Turma>
+        
+        <Professor>Tiago</Professor>
+        
+        <Ano>2021</Ano>
+        
+        <Alunos>
+            <Aluno>
+                <ID>1</ID>
+                <RA>61123</RA>
+                <Nome>Maria</Nome>
+                <DataNascimento>22/04/2001</DataNascimento>
+                <Email>maria@gmail.com</Email>
+                <Telefone>412938190283</Telefone>
+                <Endereco>
+                    <Rua>Avenida Faria Lima</Rua>
+                    <Numero>12321</Numero>
+                    <Bairro>Centro</Bairro>
+                    <CEP>4564</CEP>
+                    <Cidade>São Paulo</Cidade>
+                    <Estado>São Paulo</Estado>
+                    <Pais>Brasil</Pais>
+                </Endereco>
+            </Aluno>
+            
+            <Aluno>
+                <ID>2</ID>
+                <RA>61123</RA>
+                <Nome>Gabriel</Nome>
+                <DataNascimento>21/06/2001</DataNascimento>
+                <Email>gabriel@gmail.com</Email>
+                <Telefone>412938190283</Telefone>
+                <Endereco>
+                    <Rua>Avenida Brigadeiro</Rua>
+                    <Numero>6343</Numero>
+                    <Bairro>Centro</Bairro>
+                    <CEP>2346</CEP>
+                    <Cidade>São Paulo</Cidade>
+                    <Estado>São Paulo</Estado>
+                    <Pais>Brsil</Pais>
+                </Endereco>
+            </Aluno>
+            
+            <Aluno>
+                <ID>3</ID>
+                <RA>61123</RA>
+                <Nome>Thiago</Nome>
+                <DataNascimento>14/08/2001</DataNascimento>
+                <Email>thiago@gmail.com</Email>
+                <Telefone>412938190283</Telefone>
+                <Endereco>
+                    <Rua>Avenida Paulista</Rua>
+                    <Numero>431</Numero>
+                    <Bairro>Centro</Bairro>
+                    <CEP>3525</CEP>
+                    <Cidade>São Paulo</Cidade>
+                    <Estado>São Paulo</Estado>
+                    <Pais>Brasil</Pais>
+                </Endereco>
+            </Aluno>
+        </Alunos>
+        
+     
+      </Disciplina>
+      
+      <Disciplina>
+        <Nome>Engenharia de Software</Nome>
+        
+        <Carga>40h</Carga>
+        
+        <Turma>TADS00</Turma>
+        
+        <Professor>Leandro</Professor>
+        
+        <Ano>2020</Ano>
+        
+        <Alunos>
+
+            <Aluno>
+                <ID>1</ID>
+                <RA>61123</RA>
+                <Nome>Maria</Nome>
+                <DataNascimento>22/04/2001</DataNascimento>
+                <Email>maria@gmail.com</Email>
+                <Telefone>412938190283</Telefone>
+                <Endereco>
+                    <Rua>Avenida Faria Lima</Rua>
+                    <Numero>12321</Numero>
+                    <Bairro>Centro</Bairro>
+                    <CEP>4564</CEP>
+                    <Cidade>São Paulo</Cidade>
+                    <Estado>São Paulo</Estado>
+                    <Pais>Brasil</Pais>
+                </Endereco>
+            </Aluno>
+            
+            <Aluno>
+                <ID>2</ID>
+                <RA>61123</RA>
+                <Nome>Gabriel</Nome>
+                <DataNascimento>21/06/2001</DataNascimento>
+                <Email>gabriel@gmail.com</Email>
+                <Telefone>412938190283</Telefone>
+                <Endereco>
+                    <Rua>Avenida Brigadeiro</Rua>
+                    <Numero>6343</Numero>
+                    <Bairro>Centro</Bairro>
+                    <CEP>2346</CEP>
+                    <Cidade>São Paulo</Cidade>
+                    <Estado>São Paulo</Estado>
+                    <Pais>Brsil</Pais>
+                </Endereco>
+            </Aluno>
+            
+            <Aluno>
+                <ID>3</ID>
+                <RA>61123</RA>
+                <Nome>Thiago</Nome>
+                <DataNascimento>14/08/2001</DataNascimento>
+                <Email>thiago@gmail.com</Email>
+                <Telefone>412938190283</Telefone>
+                <Endereco>
+                    <Rua>Avenida Paulista</Rua>
+                    <Numero>431</Numero>
+                    <Bairro>Centro</Bairro>
+                    <CEP>3525</CEP>
+                    <Cidade>São Paulo</Cidade>
+                    <Estado>São Paulo</Estado>
+                    <Pais>Brasil</Pais>
+                </Endereco>
+            </Aluno>
+        </Alunos>
+        
+     
+      </Disciplina>
+      
+      <Disciplina>
+        <Nome>Programação Orientada a Objetos</Nome>
+        
+        <Carga>40h</Carga>
+        
+        <Turma>TADS01</Turma>
+        
+        <Professor>Juliana</Professor>
+        
+        <Ano>2021</Ano>
+        
+        <Alunos>
+            <Aluno>
+                <ID>1</ID>
+                <RA>61123</RA>
+                <Nome>Maria</Nome>
+                <DataNascimento>22/04/2001</DataNascimento>
+                <Email>maria@gmail.com</Email>
+                <Telefone>412938190283</Telefone>
+                <Endereco>
+                    <Rua>Avenida Faria Lima</Rua>
+                    <Numero>12321</Numero>
+                    <Bairro>Centro</Bairro>
+                    <CEP>4564</CEP>
+                    <Cidade>São Paulo</Cidade>
+                    <Estado>São Paulo</Estado>
+                    <Pais>Brasil</Pais>
+                </Endereco>
+            </Aluno>
+            
+            <Aluno>
+                <ID>2</ID>
+                <RA>61123</RA>
+                <Nome>Gabriel</Nome>
+                <DataNascimento>21/06/2001</DataNascimento>
+                <Email>gabriel@gmail.com</Email>
+                <Telefone>412938190283</Telefone>
+                <Endereco>
+                    <Rua>Avenida Brigadeiro</Rua>
+                    <Numero>6343</Numero>
+                    <Bairro>Centro</Bairro>
+                    <CEP>2346</CEP>
+                    <Cidade>São Paulo</Cidade>
+                    <Estado>São Paulo</Estado>
+                    <Pais>Brsil</Pais>
+                </Endereco>
+            </Aluno>
+            
+            <Aluno>
+                <ID>3</ID>
+                <RA>61123</RA>
+                <Nome>Thiago</Nome>
+                <DataNascimento>14/08/2001</DataNascimento>
+                <Email>thiago@gmail.com</Email>
+                <Telefone>412938190283</Telefone>
+                <Endereco>
+                    <Rua>Avenida Paulista</Rua>
+                    <Numero>431</Numero>
+                    <Bairro>Centro</Bairro>
+                    <CEP>3525</CEP>
+                    <Cidade>São Paulo</Cidade>
+                    <Estado>São Paulo</Estado>
+                    <Pais>Brasil</Pais>
+                </Endereco>
+            </Aluno>
+        </Alunos>
+        
+     
+      </Disciplina>
+  
+       
+      <Disciplina>
+        <Nome>Estrutura de Dados</Nome>
+        
+        <Carga>40h</Carga>
+        
+        <Turma>TADS01</Turma>
+        
+        <Professor>Taynara</Professor>
+        
+        <Ano>2021</Ano>
+        
+        <Alunos>
+            <Aluno>
+                <ID>1</ID>
+                <RA>61123</RA>
+                <Nome>Maria</Nome>
+                <DataNascimento>22/04/2001</DataNascimento>
+                <Email>maria@gmail.com</Email>
+                <Telefone>412938190283</Telefone>
+                <Endereco>
+                    <Rua>Avenida Faria Lima</Rua>
+                    <Numero>12321</Numero>
+                    <Bairro>Centro</Bairro>
+                    <CEP>4564</CEP>
+                    <Cidade>São Paulo</Cidade>
+                    <Estado>São Paulo</Estado>
+                    <Pais>Brasil</Pais>
+                </Endereco>
+            </Aluno>
+            
+            <Aluno>
+                <ID>2</ID>
+                <RA>61123</RA>
+                <Nome>Gabriel</Nome>
+                <DataNascimento>21/06/2001</DataNascimento>
+                <Email>gabriel@gmail.com</Email>
+                <Telefone>412938190283</Telefone>
+                <Endereco>
+                    <Rua>Avenida Brigadeiro</Rua>
+                    <Numero>6343</Numero>
+                    <Bairro>Centro</Bairro>
+                    <CEP>2346</CEP>
+                    <Cidade>São Paulo</Cidade>
+                    <Estado>São Paulo</Estado>
+                    <Pais>Brsil</Pais>
+                </Endereco>
+            </Aluno>
+            
+            <Aluno>
+                <ID>3</ID>
+                <RA>61123</RA>
+                <Nome>Thiago</Nome>
+                <DataNascimento>14/08/2001</DataNascimento>
+                <Email>thiago@gmail.com</Email>
+                <Telefone>412938190283</Telefone>
+                <Endereco>
+                    <Rua>Avenida Paulista</Rua>
+                    <Numero>431</Numero>
+                    <Bairro>Centro</Bairro>
+                    <CEP>3525</CEP>
+                    <Cidade>São Paulo</Cidade>
+                    <Estado>São Paulo</Estado>
+                    <Pais>Brasil</Pais>
+                </Endereco>
+            </Aluno>
+        </Alunos>
+        
+     
+      </Disciplina>
+  
+       
+      <Disciplina>
+        <Nome>Desenvolvimento Web Avançado</Nome>
+        
+        <Carga>40h</Carga>
+        
+        <Turma>TADS01</Turma>
+        
+        <Professor>Burnes</Professor>
+        
+        <Ano>2022</Ano>
+        
+        <Alunos>
+            <Aluno>
+                <ID>1</ID>
+                <RA>61123</RA>
+                <Nome>Maria</Nome>
+                <DataNascimento>22/04/2001</DataNascimento>
+                <Email>maria@gmail.com</Email>
+                <Telefone>412938190283</Telefone>
+                <Endereco>
+                    <Rua>Avenida Faria Lima</Rua>
+                    <Numero>12321</Numero>
+                    <Bairro>Centro</Bairro>
+                    <CEP>4564</CEP>
+                    <Cidade>São Paulo</Cidade>
+                    <Estado>São Paulo</Estado>
+                    <Pais>Brasil</Pais>
+                </Endereco>
+            </Aluno>
+            
+            <Aluno>
+                <ID>2</ID>
+                <RA>61123</RA>
+                <Nome>Gabriel</Nome>
+                <DataNascimento>21/06/2001</DataNascimento>
+                <Email>gabriel@gmail.com</Email>
+                <Telefone>412938190283</Telefone>
+                <Endereco>
+                    <Rua>Avenida Brigadeiro</Rua>
+                    <Numero>6343</Numero>
+                    <Bairro>Centro</Bairro>
+                    <CEP>2346</CEP>
+                    <Cidade>São Paulo</Cidade>
+                    <Estado>São Paulo</Estado>
+                    <Pais>Brsil</Pais>
+                </Endereco>
+            </Aluno>
+            
+            <Aluno>
+                <ID>3</ID>
+                <RA>61123</RA>
+                <Nome>Thiago</Nome>
+                <DataNascimento>14/08/2001</DataNascimento>
+                <Email>thiago@gmail.com</Email>
+                <Telefone>412938190283</Telefone>
+                <Endereco>
+                    <Rua>Avenida Paulista</Rua>
+                    <Numero>431</Numero>
+                    <Bairro>Centro</Bairro>
+                    <CEP>3525</CEP>
+                    <Cidade>São Paulo</Cidade>
+                    <Estado>São Paulo</Estado>
+                    <Pais>Brasil</Pais>
+                </Endereco>
+            </Aluno>
+        </Alunos>
+        
+     
+      </Disciplina>
+  
+
+</TADS>

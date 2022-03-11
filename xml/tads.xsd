@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="TADS">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" name="Disciplina">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Nome" type="xs:string" />
+              <xs:element name="Carga" type="xs:string" />
+              <xs:element name="Turma" type="xs:string" />
+              <xs:element name="Professor" type="xs:string" />
+              <xs:element name="Ano" type="xs:unsignedShort" />
+              <xs:element name="Alunos">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element maxOccurs="unbounded" name="Aluno">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="ID" type="xs:unsignedByte" />
+                          <xs:element name="RA" type="xs:unsignedShort" />
+                          <xs:element name="Nome" type="xs:string" />
+                          <xs:element name="DataNascimento" type="xs:string" />
+                          <xs:element name="Email" type="xs:string" />
+                          <xs:element name="Telefone" type="xs:unsignedLong" />
+                          <xs:element name="Endereco">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element name="Rua" type="xs:string" />
+                                <xs:element name="Numero" type="xs:unsignedShort" />
+                                <xs:element name="Bairro" type="xs:string" />
+                                <xs:element name="CEP" type="xs:unsignedShort" />
+                                <xs:element name="Cidade" type="xs:string" />
+                                <xs:element name="Estado" type="xs:string" />
+                                <xs:element name="Pais" type="xs:string" />
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

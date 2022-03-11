@@ -1,34 +1,64 @@
-
 body {
     margin: 0;
+    font-family: Arial;
 }
-
-header {
+header, footer {
     width: 100%;
     background-color: black;
     display: inline-block;
 }
-
+footer p {
+    color: #FFF;
+    text-align: center;
+    font-family: Arial;
+}
 header nav {
     float: right;
 }
-
 header nav ul {
     list-style: none;
-
 }
-
 header nav ul li {
     display: inline-block;
     font-family: Arial;
     margin: 20px;
 }
-
 header nav ul li a {
     color: white;
     text-decoration: none;
 }
-
 header nav ul li a:hover {
-    color: crimson;
+    color: red;
+}
+main {
+    width: 1000px;
+    margin: auto;
+}
+h1 {
+    font-family: Arial;
+    text-align: center;
+}
+.btn {
+    background-color: red;
+    color: #FFF;
+    text-decoration: none;
+    font-family: Arial;
+    padding: 10px 20px;
+}
+.center {
+    text-align: center;
+}
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 33%);
+}
+.grid .coluna img {
+    width: 100%;
+}
+.grid .coluna {
+    border: 1px solid #ccc;
+    margin: 5px;
+}
+.banner img {
+    width: 100%;
 }
